@@ -38,7 +38,7 @@
 <!--Windows 7 でのLiteExplorerを起動した様子 (v1.10)  
 ![screenshot](https://sakuzyokun.github.io/LiteExplorer/files/win7_LE.png)  -->
 Windows 11 でのSimpleStopwatchを起動した様子 (v1.00)  
-![screenshot](https://sakuzyokun.github.io/LiteExplorer/files/screenshot.png)  
+![screenshot](https://github.com/sakuzyokun/SimpleStopwatch/blob/main/SimpleStopwatch_b1.png?raw=true)  
 
 ---
 
