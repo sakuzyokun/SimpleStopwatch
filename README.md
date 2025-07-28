@@ -1,7 +1,7 @@
 # 🚀 SimpleStopwatch
 
 ![Windows](https://img.shields.io/badge/Windows-Vista%20~%2011-blue)  
-💾 **軽量ストップウォッチアプリ** for Windows Vista / 7 / 8 / 8.1 / 10 / 11  
+⏱ **軽量ストップウォッチアプリ** for Windows Vista / 7 / 8 / 8.1 / 10 / 11  
 🌱 **メモリ使用量 5〜8MB / CPU数％で動作！**  
 📦 シンプル・高速なファイルマネージャ  
 <!--
