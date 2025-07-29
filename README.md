@@ -3,7 +3,7 @@
 ![Windows](https://img.shields.io/badge/Windows-Vista%20~%2011-blue)  
 ⏱ **軽量ストップウォッチアプリ** for Windows Vista / 7 / 8 / 8.1 / 10 / 11  
 🌱 **メモリ使用量 5〜8MB / CPU数％で動作！**  
-📦 シンプル・高速なファイルマネージャ  
+📦 シンプル・高速なストップウォッチ 
 <!--
 ![screenshot](https://sakuzyokun.github.io/LiteExplorer/files/win7_LE.png) <!-- 画像があれば。なければ省略してOK -->
 
@@ -51,11 +51,11 @@ Windows 11 でのSimpleStopwatchを起動した様子 (v1.00)
 
 ## 📜 ライセンス・改造について
 
-LiteExplorerは自由に**改造・再配布**してOKです！  
+SimpleStopwatchは自由に**改造・再配布**してOKです！  
 ただし、以下の一文を**`README.md`やソースコードの先頭コメント**に明記してください：
 
 ```c
-// LiteExplorer was created by sakuzyokun
+// SimpleStopwatch was created by sakuzyokun
 ```
 
 ---
