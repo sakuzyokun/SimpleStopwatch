@@ -45,7 +45,7 @@ Windows 11 でのSimpleStopwatchを起動した様子 (v1.00)
 ## 🔧 ダウンロード
 
 ▶ 最新版はこちらからダウンロード：  
-👉 **[https://sakuzyokun.github.io/LiteExplorer/](https://sakuzyokun.github.io/SimpleStopwatch/)**
+👉 **[https://sakuzyokun.github.io/SimpleStopwatch/](https://sakuzyokun.github.io/SimpleStopwatch/)**
 
 ---
 
