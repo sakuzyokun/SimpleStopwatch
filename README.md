@@ -23,7 +23,7 @@
 | OS              | 対応状況   |
 |-----------------|------------|
 | Windows Vista   | ✅ 対応 |
-| Windows 7       | ✅ 対応    |
+| Windows 7       | ✅ 対応確認済み    |
 | Windows 8 / 8.1 | ✅ 対応      |
 | Windows 10      | ✅ 対応      |
 | Windows 11      | ✅ 対応確認済み      |
